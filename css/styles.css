@@ -908,8 +908,8 @@ input[type='checkbox'] {
 /*     Footer     */
 /******************/
 .footer {
-	padding-top: 6.25rem;
-	padding-bottom: 2rem;
+	 padding-top: 3.25rem;
+         padding-bottom: 1rem;
 	background-color: #24262a;
 	text-align: center;
 }
