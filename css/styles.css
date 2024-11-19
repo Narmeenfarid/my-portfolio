@@ -611,8 +611,8 @@ input[type='checkbox'] {
 /*     About     */
 /*****************/
 .basic-1 {
-	padding-top: 7.75rem;
-	padding-bottom: 5.25rem;
+	 padding-top: 2.75rem;
+         padding-bottom: 1.25rem;
 }
 
 .basic-1 .text-container {
